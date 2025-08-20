@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Pedro's+GitHub!;You+can+also+call+me+MonDev!"
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Pedro's+GitHub!;You+can+also+call+me+MonDev!">
 </p>
 
 
