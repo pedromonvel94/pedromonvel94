@@ -1,4 +1,7 @@
-## Hi there!, welcome to Pedro's GitHub! 
+##
+<p align="center">
+  <h3 align="center">Hi there!! 🚀</h3>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Pedro's+GitHub!;You+can+also+call+me+MonDev!)](https://git.io/typing-svg)
 <!--
