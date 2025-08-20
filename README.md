@@ -1,5 +1,6 @@
-## Hi there!, welcome to Pedro's GitHub! you can also call me MonDev!👋
+## Hi there!, welcome to Pedro's GitHub! 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Pedro's+GitHub!;You+can+also+call+me+MonDev!)](https://git.io/typing-svg)
 <!--
 **pedromonvel94/pedromonvel94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
