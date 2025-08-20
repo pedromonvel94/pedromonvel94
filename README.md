@@ -1,9 +1,11 @@
 ##
 <p align="center">
   <h3 align="center">Hi there!! 🚀</h3>
+
+  <h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Pedro's+GitHub!;You+can+also+call+me+MonDev!)](https://git.io/typing-svg)</h3>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Pedro's+GitHub!;You+can+also+call+me+MonDev!)](https://git.io/typing-svg)
+
 <!--
 **pedromonvel94/pedromonvel94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
