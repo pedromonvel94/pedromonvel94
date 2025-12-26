@@ -54,7 +54,8 @@ Make yourself at home, this is my personal space and you’re more than welcome 
   </a>
 </p>  
 
-  <h3 align="center">Development Tools</h3>
+<h3 align="center">Development Tools</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,postman,vscode,idea,git,github"/>
   </a>
@@ -62,8 +63,16 @@ Make yourself at home, this is my personal space and you’re more than welcome 
 
 <h2 align="center">📫 How to reach me:</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/juan-pedro-montoya-velez/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/juan-pedro-montoya-velez/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
+  <a href="mailto:juanpemonv1994@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/573205832210" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://leetcode.com/u/pedromonvel94/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpedromonvel94&logo=leetcode&logoColor=yellow"/></a>
 </p>
+
 <!--
 **pedromonvel94/pedromonvel94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
