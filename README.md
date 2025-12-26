@@ -39,20 +39,24 @@ Make yourself at home, this is my personal space and you’re more than welcome 
 
 <h2 align="center">Stack</h2>
 
+
+<h3 align="center">Languajes, Frameworks and libraries</h3>
 <p align="center">
-  <h3>Languajes, Frameworks and libraries</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,javascript,react" />
   </a>
-  
-  <h3>Data bases & Containers</h3>
+</p>  
+
+<h3 align="center">Data bases & Containers</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,docker"/>
   </a>
+</p>  
 
-  <h3></h3>
+  <h3 align="center">Development Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,docker"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,postman,vscode,idea,git,github"/>
   </a>
 </p>
 
